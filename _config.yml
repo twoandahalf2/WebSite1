@@ -16,6 +16,7 @@
 title: Website1
 email: vladimir.kolev@hotmail.com
 description: This is exciting!
+destination: docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vkkaccount
